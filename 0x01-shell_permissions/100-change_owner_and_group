@@ -1,3 +1,2 @@
 #!/bin/bach
-chown vincent
-chgrp staff
+chown vincent chgrp staff
